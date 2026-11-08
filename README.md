@@ -50,7 +50,18 @@ Ran into some issues. Here's what the Ai had to say.  "Found the actual problem:
 
 <img width="1245" height="1291" alt="image" src="https://github.com/user-attachments/assets/adcfcc53-2f59-40cd-8422-b9be80354861" />
 
-Retry UDP with troubleshooting flags
+Lauched a new machine
+
+<img width="1182" height="672" alt="Screenshot From 2026-11-08 14-35-09" src="https://github.com/user-attachments/assets/12f224a1-e1b0-42df-9419-1c579c91aa0e" />
+
+<img width="1182" height="672" alt="Screenshot From 2026-11-08 14-35-09" src="https://github.com/user-attachments/assets/df4c6d4f-c123-4026-a67f-f2c6c87c42c3" />
+
+<img width="2116" height="1143" alt="Screenshot From 2026-11-08 15-22-56" src="https://github.com/user-attachments/assets/044e738a-4837-4a06-a6c3-3d25be300ae6" />
+
+<img width="2116" height="1143" alt="Screenshot From 2026-11-08 15-29-16" src="https://github.com/user-attachments/assets/3c7935a5-fa5e-42a1-a050-1d553e9e9105" />
+
+<img width="2116" height="1143" alt="Screenshot From 2026-11-08 15-32-46" src="https://github.com/user-attachments/assets/b06b9ce2-9525-4719-a34f-13d676dd7c58" />
+
 
 <img width="1241" height="1186" alt="image" src="https://github.com/user-attachments/assets/10e4f359-bfb9-425c-bfd7-a7b5b9e3840e" />
 
