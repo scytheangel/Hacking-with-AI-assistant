@@ -52,6 +52,8 @@ Ran into some issues. Here's what the Ai had to say.  "Found the actual problem:
 
 Lauched a new machine
 
+<img width="2142" height="904" alt="Screenshot From 2026-11-08 14-35-52" src="https://github.com/user-attachments/assets/c97baeed-1cd4-42bc-9ebf-2eb4dd7b296b" />
+
 <img width="1182" height="672" alt="Screenshot From 2026-11-08 14-35-09" src="https://github.com/user-attachments/assets/12f224a1-e1b0-42df-9419-1c579c91aa0e" />
 
 <img width="1182" height="672" alt="Screenshot From 2026-11-08 14-35-09" src="https://github.com/user-attachments/assets/df4c6d4f-c123-4026-a67f-f2c6c87c42c3" />
