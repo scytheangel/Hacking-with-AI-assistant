@@ -50,6 +50,8 @@ Ran into some issues. Here's what the Ai had to say.  "Found the actual problem:
 
 <img width="1245" height="1291" alt="image" src="https://github.com/user-attachments/assets/adcfcc53-2f59-40cd-8422-b9be80354861" />
 
+<img width="2116" height="1143" alt="Screenshot From 2026-11-08 15-32-46" src="https://github.com/user-attachments/assets/b06b9ce2-9525-4719-a34f-13d676dd7c58" />
+
 Lauched a new machine
 
 <img width="2142" height="904" alt="Screenshot From 2026-11-08 14-35-52" src="https://github.com/user-attachments/assets/c97baeed-1cd4-42bc-9ebf-2eb4dd7b296b" />
@@ -62,7 +64,7 @@ Lauched a new machine
 
 <img width="2116" height="1143" alt="Screenshot From 2026-11-08 15-29-16" src="https://github.com/user-attachments/assets/3c7935a5-fa5e-42a1-a050-1d553e9e9105" />
 
-<img width="2116" height="1143" alt="Screenshot From 2026-11-08 15-32-46" src="https://github.com/user-attachments/assets/b06b9ce2-9525-4719-a34f-13d676dd7c58" />
+
 
 
 <img width="1241" height="1186" alt="image" src="https://github.com/user-attachments/assets/10e4f359-bfb9-425c-bfd7-a7b5b9e3840e" />
